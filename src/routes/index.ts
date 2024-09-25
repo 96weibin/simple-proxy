@@ -21,7 +21,7 @@ export default defineEventHandler(async (event) => {
       event,
       status: 200,
       data: {
-        message: `Proxy is working as expected 世界第一顶 (v${
+        message: `aasdfdfsdf Proxy is working as expected 世界第一顶 (v${
           useRuntimeConfig(event).version
         })`,
       },
